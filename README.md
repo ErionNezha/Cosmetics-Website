@@ -39,7 +39,7 @@ Të gjitha libraritë (Font Awesome, Swiper, LightGallery) janë lokale në dosj
 
 ## Licenca
 
-MIT — shihni [LICENSE](LICENSE). © 2026 Erion Nezha.
+Të gjitha të drejtat e rezervuara © 2026 Erion Nezha — shihni [LICENSE](LICENSE).
 
 ---
 
@@ -84,4 +84,4 @@ All libraries (Font Awesome, Swiper, LightGallery) are vendored locally in `vend
 
 ## License
 
-MIT — see [LICENSE](LICENSE). © 2026 Erion Nezha.
+All rights reserved © 2026 Erion Nezha — see [LICENSE](LICENSE).
