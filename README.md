@@ -18,7 +18,7 @@ Faqe moderne dhe plotësisht responsive për një dyqan kozmetike:
 - Shërbimet: dërgesë falas, pagesë e sigurt, mbështetje 24/7
 - Formular buletini dhe informacion kontakti
 
-**Kontakt:** +355 699 552 080 · erjonnezhaa@gmail.com · Tiranë, Shqipëri
+**Kontakt:** +355 6XX XXX XXX · shembull@example.com · Tiranë, Shqipëri
 
 ## Si hapet lokalisht
 
@@ -63,7 +63,7 @@ A modern, fully responsive page for a cosmetics shop:
 - Services: free shipping, secure payment, 24/7 support
 - Newsletter form and contact info
 
-**Contact:** +355 699 552 080 · erjonnezhaa@gmail.com · Tirana, Albania
+**Contact:** +355 6XX XXX XXX · shembull@example.com · Tirana, Albania
 
 ## Running locally
 
